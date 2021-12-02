@@ -30,19 +30,19 @@ The following functions are currently implemented:
 * `function2(...)`: description
 * `function3(...)`: description
 *
-* `countLetters(string)`: returns an object with the amount of times each letter occurs
+* `countLetters()`: returns an object with the amount of times each letter occurs
 
-* `countOnly(object, thingToCount)`: counts how many times 'thingToCount' appears in object/array
+* `countOnly()`: counts how many times 'thingToCount' appears in object/array
 
-* `eqArray(array1, array2)`: compares two arrays and returns true or false if theyre equal or not
+* `eqArray()`: compares two arrays and returns true or false if theyre equal or not
 
-* `eqObjects(object1, object2)`: compares two objects and returns true or false if theyre equal or not
-* `findKey(object, function(key))`: Loops through object and returns the key if callback function returns true
-* `findKeyByValue(object, value)`: Searches an array and returns the key of a specific value
-* `head(array)`: returns the first value of an array
-* `letterPositions(string)`: returns an object with all the indexes that each letter appears in
-* `map(array, function)`: clone of array.map()
-* `middle(array)`: returns the middle value(s) of an array
-* `tail(array)`: returns an array without its head
-* `takeUntil(array, function)`: returns a "slice of the array with elements taken from the beginning." It will keep going until the callback/predicate returns a truthy value
-* `without(array, valueToRemove)`: returns array without valueToRemove
+* `eqObjects()`: compares two objects and returns true or false if theyre equal or not
+* `findKey()`: Loops through object and returns the key if callback function returns true
+* `findKeyByValue()`: Searches an array and returns the key of a specific value
+* `head()`: returns the first value of an array
+* `letterPositions()`: returns an object with all the indexes that each letter appears in
+* `map()`: clone of array.map()
+* `middle()`: returns the middle value(s) of an array
+* `tail()`: returns an array without its head
+* `takeUntil()`: returns a "slice of the array with elements taken from the beginning." It will keep going until the callback/predicate returns a truthy value
+* `without()`: returns array without valueToRemove
