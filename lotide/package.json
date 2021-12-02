@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sahar11/lotide.git"
+    "url": "git+https://github.com/Sahar11/lotide/lotide.git"
   },
   "author": "Sahar Halim (@sahar11)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Sahar11/lotide/issues"
+    "url": "https://github.com/Sahar11/lotide/lotide/issues"
   },
   "homepage": "https://github.com/Sahar11/lotide#readme",
   "description": "A mini clone of the [Lodash](https://lodash.com) library.",
